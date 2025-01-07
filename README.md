@@ -1,6 +1,6 @@
-# chatgpt_flutter_app
+# NEO
 
-A new Flutter project.
+Flutter based Gemini AI Chatbot
 
 ## Getting Started
 
